@@ -1,0 +1,22 @@
+i.icon{
+    font-size: 2em;
+}
+
+.main {
+    margin-top: 5%;
+}
+
+.main.container{
+    margin-top: 7em;
+}
+
+img {
+    width: 50%;
+    height: 0px;
+}
+
+.mydate {
+    font-size: small;
+    font-weight: lighter;
+    color: #121212;
+}
